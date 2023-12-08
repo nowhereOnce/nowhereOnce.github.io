@@ -1,12 +1,15 @@
 ---
 layout: page
-title: About
+title: Descripción
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+El presente proyecto, se enmarca en la colaboración de Proyectos de Investigación en Inteligencia Artificial en el Espacio de Innovación UNAM – HUAWEI, se centra en el estudio de la mejora de las habilidades de escritura de estudiantes universitarios mediante el empleo de técnicas avanzadas de inteligencia artificial.
+El objetivo principal es identificar áreas de oportunidad para fortalecer las competencias escritas de los estudiantes, a la vez que se alivian las cargas de lectura y enseñanza docente. Para lograr esto, se desarrolló un conjunto de datos integral que se utilizó como base para la identificación de errores comunes en la escritura del español por parte de los alumnos de iniciación universitaria.
+Como producto principal, se implementó un Modelo de Red Neuronal del tipo transformer en MindSpore, específicamente entrenado para la detección de errores de escritura. 
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Este proyecto se establece como un paso significativo hacia la mejora de la calidad de la escritura académica, capitalizando la capacidad transformadora de la inteligencia artificial en el proceso educativo.
+
 
 ## Features
 
