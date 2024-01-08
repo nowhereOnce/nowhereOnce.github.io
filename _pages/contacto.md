@@ -4,14 +4,14 @@ title: Contacto
 permalink: /contacto/
 ---
 
-### Dra. Tamara Iskra Alcántara Concepción
+### Dra. Tamara Alcántara
 Contacto1
 
-### Dra. Marina Kriscautzky Laxagu
+### Dra. Marina Kriscautzky 
 
 Contacto2
 
-### Dr. Ivan Vladimir Meza Ruiz
+### Dr. Vladimir Meza
 
 Contacto3
 
