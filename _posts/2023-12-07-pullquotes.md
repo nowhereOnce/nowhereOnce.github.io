@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Diseño
+title:  Recolección de textos
 categories: [HTML,Code]
 excerpt: Resultados obtenidos 
 ---
