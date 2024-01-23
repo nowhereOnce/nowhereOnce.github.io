@@ -5,13 +5,13 @@ permalink: /contacto/
 ---
 
 ### Dra. Tamara Alcántara
-Contacto1
+Contacto 1
 
 ### Dra. Marina Kriscautzky 
 
-Contacto2
+Contacto 2
 
 ### Dr. Vladimir Meza
 
-Contacto3
+Contacto 3
 
