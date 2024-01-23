@@ -9,7 +9,5 @@ El presente proyecto, se enmarca en la colaboración de Proyectos de Investigaci
 Este proyecto se establece como un paso significativo hacia la mejora de la calidad de la escritura académica, utilizando la capacidad transformadora de la inteligencia artificial en el proceso educativo.
 </div>
 
-//## Adicional
 
-//- Puntos
 
