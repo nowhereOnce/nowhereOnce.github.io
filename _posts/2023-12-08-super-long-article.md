@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Segunda recolecta de textos: 216 textos
+title: Segunda recolecta de textos\: 216 textos
 categories: Escritura
 ---
 
