@@ -2,6 +2,7 @@
 layout: post
 title: "Segunda recolecta de textos: 216 textos"
 categories: Escritura
+excerpt: En esta fase adicional, nuestra atención se centró en la ampliación y enriquecimiento del corpus inicial. La adquisición de 216 nuevos textos nos permite diversificar aún más la muestra, permitiéndonos explorar una gama más amplia de redacción sobre el tema abordado. Cada uno de estos textos, se suma a la riqueza de nuestra base de datos y ofrece una perspectiva única sobre la evolución del pensamiento argumentativo en esta etapa educativa crucial.
 ---
 <p style="text-align: justify;">
 En esta fase adicional, nuestra atención se centró en la ampliación y enriquecimiento del corpus inicial. La adquisición de 216 nuevos textos nos permite diversificar aún más la muestra, permitiéndonos explorar una gama más amplia de redacción sobre el tema abordado. Cada uno de estos textos, se suma a la riqueza de nuestra base de datos y ofrece una perspectiva única sobre la evolución del pensamiento argumentativo en esta etapa educativa crucial.
