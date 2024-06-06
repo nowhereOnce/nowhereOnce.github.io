@@ -15,14 +15,14 @@ Contacto 2
 
 Contacto 3
 
-## Sarah Cruz
-## Cecilia San Miguel
-## Vania Nájera
-## Mildred Moreno
-## Enrique Aguilar
-## Ángel Rodríguez
-## Ernesto Ochoa
-## Mario Merino
-## Camila Arias 
+### Sarah Cruz
+### Cecilia San Miguel
+### Vania Nájera
+### Mildred Moreno
+### Enrique Aguilar
+### Ángel Rodríguez
+### Ernesto Ochoa
+### Mario Merino
+### Camila Arias 
 
 
