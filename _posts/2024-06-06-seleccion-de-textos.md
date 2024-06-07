@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primeras fases"
+title: Primeras fases
 categories: [Escritura,Textos,Etiquetado]
 excerpt:Antes de definir las características de los textos argumentativos que se recolectarían, se realizó un trabajo de revisión de la literatura y discusión colectiva. Se realizó una reunión con los profesores de la ENP 2 que participarían en el proyecto. 
 ---
