@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Seleccion de textos"
+title: "Primeras fases"
 categories: [Escritura,Textos,Etiquetado]
-excerpt:Antes de definir las características de los textos argumentativos que se recolectarían, se realizó un trabajo de revisión de la literatura y discusión colectiva. Se realizó una reunión con los profesores de la ENP 2 que participarían en el proyecto. 
+excerpt: Antes de definir las características de los textos argumentativos que se recolectarían, se realizó un trabajo de revisión de la literatura y discusión colectiva. Se realizó una reunión con los profesores de la ENP 2 que participarían en el proyecto. 
 ---
 <p style="text-align: justify;">
 Antes de definir las características de los textos argumentativos que se recolectarían, se realizó un trabajo de revisión de la literatura y discusión colectiva. Se realizó una reunión con los profesores de la ENP 2 que participarían en el proyecto. Todos ellos imparten la asignatura “Formación Cívica y Ética” a estudiantes de Iniciación Universitaria. Se acordó el tema y el formato a seguir para la recolecta de textos. La estrategia para la recolecta de textos diseñada en conjunto con los profesores fue: 
