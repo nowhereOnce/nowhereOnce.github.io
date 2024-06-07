@@ -22,7 +22,7 @@ Se realizó prueba piloto para la recolecta de datos en las aulas de Iniciación
 
 
 <h3> Primera recolecta de textos</h3>
-<p style="text-align: right;">
+<p style="text-align: justify;">
 Se recolectaron 103 textos producidos por estudiantes de iniciación universitaria inscritos, los textos representan a estudiantes de los tres grados del programa de Iniciación Universitaria. Se encontró un solo texto que deberá descartarse por carecer de contenido; solamente contiene letras sin sentido. Todos los miembros del equipo han aprendido sobre la teoría de textos argumentativos.
 </p>
 
