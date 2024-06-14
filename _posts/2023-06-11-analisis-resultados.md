@@ -21,37 +21,37 @@ A continuación se presentan las gráficas correspondientes con las respuestas d
 <br>
 <div style="text-align: center;">
     <img src="/images/genero1.png" alt="grafica-genero1">
-    <figcaption>Gráfica de género (Primera recolecta).</figcaption>
+    <figcaption><b>Gráfica de género (Primera recolecta).</b></figcaption>
 </div>
 
 <br>
 <div style="text-align: center;">
     <img src="/images/confirmacion.png" alt="grafica-confirmacion1">
-    <figcaption>Gráfica de confirmación (Primera recolecta).</figcaption>
+    <figcaption><b>Gráfica de confirmación (Primera recolecta).</b></figcaption>
 </div>
 
 <br>
 <div style="text-align: center;">
     <img src="/images/genero2.png" alt="grafica-genero2">
-    <figcaption>Gráfica de género (Segunda recolecta).</figcaption>
+    <figcaption><b>Gráfica de género (Segunda recolecta).</b></figcaption>
 </div>
 
 <br>
 <div style="text-align: center;">
     <img src="/images/edad2.png" alt="grafica-edad2">
-    <figcaption>Gráfica de edad (Segunda recolecta).</figcaption>
+    <figcaption><b>Gráfica de edad (Segunda recolecta).</b></figcaption>
 </div>
 
 <br>
 <div style="text-align: center;">
     <img src="/images/grado2.png" alt="grafica-grado2">
-    <figcaption>Gráfica de grado (Segunda recolecta).</figcaption>
+    <figcaption><b>Gráfica de grado (Segunda recolecta).</b></figcaption>
 </div>
 
 <br>
 <div style="text-align: center;">
     <img src="/images/confirmacion2.png" alt="grafica-confirmacion2">
-    <figcaption>Gráfica de confirmación (Segunda recolecta).</figcaption>
+    <figcaption><b>Gráfica de confirmación (Segunda recolecta).</b></figcaption>
 </div>
 
 
