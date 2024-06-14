@@ -69,17 +69,26 @@ Describe que tanto se ajustaron al tema y tipo de texto.</li>
 
 <li><b>De qué manera resolvieron la tarea. </b><br> 
     <ul>
-    <li>Organiza la forma en la que el texto esta escrito por su contenido, desde los que copian de internet, aquellos que escriben ideas propias, además de considerar el uso de paráfrasis, citas, etc.</li>
+    <li style="text-align: justify;">Organiza la forma en la que el texto esta escrito por su contenido, desde los que copian de internet, aquellos que escriben ideas propias, además de considerar el uso de paráfrasis, citas, etc.</li>
 
 
-    <li> En caso de que usen lenguaje propio, se registra el uso de putuación, además de elementos como los conectores lógicos, organizadores y unidades gráficas como Bloques textuales y peritextos. </li>
+    <li style="text-align: justify;" > En caso de que usen lenguaje propio, se registra el uso de putuación, además de elementos como los conectores lógicos, organizadores y unidades gráficas como Bloques textuales y peritextos. </li>
 
-    <li>Para el apartado de la estructura argumentativa se consideraron diferente etiquetas correspondientes con posturas, aseveración, argumento, contra argumento, especificación, ejemplificación, oposición y conclusión.</li>
+    <li style="text-align: justify;" >Para el apartado de la estructura argumentativa se consideraron diferente etiquetas correspondientes con posturas, aseveración, argumento, contra argumento, especificación, ejemplificación, oposición y conclusión.</li>
 
     </ul>
 </li>
 
+<li><b>Uso de Unidades retóricas.</b>
+<br>
+Evalúa el uso de preguntas retóricas
+</li>
+
 </ul>
+</p>
+
+<p style="text-align: justify;">
+Posteriormente se formularon nuevamente las etiquetas siguiendo una estructura que incluye las etiquetas “Copia” y “sospecha de copia” para los fragmentos tomados de Internet.
 
 
 
