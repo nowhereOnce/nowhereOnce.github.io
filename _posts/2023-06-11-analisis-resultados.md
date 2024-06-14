@@ -79,10 +79,12 @@ Describe que tanto se ajustaron al tema y tipo de texto.</li>
     </ul>
 </li>
 
-<li><b>Uso de Unidades retóricas.</b>
 <br>
-Evalúa el uso de preguntas retóricas
-</li>
+<div style="text-align: center;">
+    <img src="/images/escritura-ejemplos.png" alt="grafica-escritura-ejemplos">
+    <figcaption><b>Ejemplos de escritura.</b></figcaption>
+</div>
+
 
 </ul>
 </p>
