@@ -24,6 +24,6 @@ Contacto 3
 ### Ernesto Ochoa
 ### Mario Merino
 ### Camila Arias 
-### Fermín Carmona
+### Fermín Cristóbal
 
 

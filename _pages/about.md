@@ -8,6 +8,13 @@ El presente proyecto, se enmarca en la colaboración de Proyectos de Investigaci
 <br>
 Este proyecto se establece como un paso significativo hacia la mejora de la calidad de la escritura académica, utilizando la capacidad transformadora de la inteligencia artificial en el proceso educativo.
 
+<h1>Metodología</h1>
+<br>
+<div style="text-align: center;">
+    <img src="/images/fases.png" alt="fases">
+    <figcaption><b>Metodología de trabajo.</b></figcaption>
+</div>
+
 </div>
 
 
